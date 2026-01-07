@@ -1,0 +1,1 @@
+"Hello this is me Akshat making my first project  on ai linear regression from scratch and commiting it on git hub "
